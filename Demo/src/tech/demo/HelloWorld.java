@@ -7,5 +7,4 @@ public class HelloWorld {
 		System.out.println("Hello World of Git!!");
 		System.out.println("Hello Git!!");
 	}
-
 }
